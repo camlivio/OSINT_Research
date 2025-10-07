@@ -1,0 +1,30 @@
+Getting started with Inoreader:
+ 
+Open (or download) Firefox > Go to Inoreader > Create account > Install extension (Inoreader Companion for Firefox - The icon will be added to your toolbar) > Adjust Privacy and Security:
+ 
+(1) Turn Off Data Collection
+Menu > Settings > Privacy & Security
+Scroll to Firefox Data Collection and Use
+Uncheck all boxes (data & crash reports).
+ 
+(2) Block Trackers
+Privacy & Security > Enhanced Tracking Protection
+Set to Strict (blocks trackers, cookies, fingerprinting)
+ 
+(3) Disable Autofill
+Logins and Passwords > Uncheck:
+Save logins & passwords
+Autofill logins
+Forms and Autofill > Uncheck:
+Credit cards
+Addresses
+ 
+(4) Remove Pocket Recommendations (Optional)
+Home > Firefox Home Content
+Uncheck: Recommended by Pocket
+ 
+(5) Limit Site Permissions
+Privacy & Security > Permissions
+For Location, Camera, Mic, Notifications > Settings…
+Remove sites you don’t trust.
+ 
